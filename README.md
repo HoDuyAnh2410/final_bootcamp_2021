@@ -4,6 +4,8 @@
 
 1. Drivers
     + Chrome driver
+        + Note: Please check the version of Chrome browser before downloading the Chrome driver. The version of them must be the same.
+        + Link download: https://chromedriver.chromium.org/downloads
     + Firefox driver
     + Gecko driver
 2. Browsers
